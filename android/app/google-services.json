@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "675754179401",
+    "firebase_url": "https://library-9e7fb-default-rtdb.firebaseio.com",
+    "project_id": "library-9e7fb",
+    "storage_bucket": "library-9e7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675754179401:android:6fc9749e34743990aaf898",
+        "android_client_info": {
+          "package_name": "com.example.majlis_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBAP45Zt6PXPQIh8TKe5P7FNdBXA1Elk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
